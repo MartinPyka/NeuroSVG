@@ -1,0 +1,13 @@
+# Split decoding figure into pieces
+
+# Disable ALL layers
+layers style=display:none
+
+layer label:re=anatomy.* style=display:inline
+%save anatomy
+
+layer label:re=legend.* style=display:inline
+%save anatomy-with-legends
+
+layer label:re=cells style=display:inline
+%save full
