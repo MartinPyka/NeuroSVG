@@ -138,17 +138,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="490.85901"
-     inkscape:cy="153.1013"
+     inkscape:cx="379.22567"
+     inkscape:cy="237.95411"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:snap-midpoints="true"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
-     inkscape:window-height="838"
+     inkscape:window-height="837"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -177,7 +177,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="anatomy: outline"
-     style="display:none;opacity:1;filter:url(#filter5044)"
+     style="display:inline;opacity:1;filter:url(#filter5044)"
      transform="translate(-78.456032,-169.85042)"
      sodipodi:insensitive="true">
     <g
@@ -369,7 +369,7 @@
      inkscape:groupmode="layer"
      id="g5153"
      inkscape:label="anatomy: colors"
-     style="display:none;opacity:0.5"
+     style="display:inline;opacity:0.5"
      transform="translate(-78.456032,-169.85042)"
      sodipodi:insensitive="true">
     <path
@@ -461,7 +461,7 @@
   </g>
   <g
      transform="translate(-78.456032,-169.85042)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="granule cells: DG (abstract)"
      id="g4461"
      inkscape:groupmode="layer"
@@ -631,7 +631,7 @@
   </g>
   <g
      transform="translate(-78.456032,-169.85042)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="pyramidal cells: CA3 (abstract)"
      id="g4534"
      inkscape:groupmode="layer"
@@ -734,7 +734,7 @@
      inkscape:groupmode="layer"
      id="g4447"
      inkscape:label="pyramidal cells: CA1 (abstract) "
-     style="display:none"
+     style="display:inline"
      transform="translate(-78.456032,-169.85042)"
      sodipodi:insensitive="true">
     <path
@@ -1004,7 +1004,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="labels: sub"
-     style="display:none"
+     style="display:inline"
      transform="translate(-78.456032,-169.85042)"
      sodipodi:insensitive="true">
     <text
